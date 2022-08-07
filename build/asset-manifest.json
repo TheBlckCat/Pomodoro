@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Pomodoro/static/js/main.d71f3848.js",
+    "index.html": "/Pomodoro/index.html",
+    "main.d71f3848.js.map": "/Pomodoro/static/js/main.d71f3848.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d71f3848.js"
+  ]
+}
